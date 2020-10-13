@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /RGPD_Ok
+Disallow: /RGPD_Refus
+Disallow: /CNIL
+Disallow: /contact

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+        <meta name="description" content="Service de stockage et de r&eacute;cup&eacute;ration de fichier et multi-appareils." />
+        <title>StockR&eacute;cupNET - Accueil</title>
+</head>
+<body style="background: url('images/IMG_20200711_094942.jpg') no-repeat top center fixed; background-size: 100%;margin: 14px auto; padding: 7px 7px;border: 1px solid white; height: 700px;width: 1000px;display:block;">
+<div style="display: block; width: 999px; margin: 20px 0; height: 40px;">
+<h1 style="color: red;display:inline;text-align:left;padding: 0 0 0 27px;"><a style="color:red; text-decoration: none;font-size:24px;" href="/Accueil">StockR&eacute;cup<span style="font-size: 22px;">NET</span></a></h1>
+<p style="color: orange; font-size: 22px; display:inline;text-align: right;margin: 14px 14px; padding: 0 0 0 14px;text-decoration:underline; "><a style="color:rgb(0,64,128);" href="/stockage">Stockage</a></p>
+<p style="color: orange; font-size: 22px; display:inline;text-align: right;margin: 14px 14px; text-decoration:underline; "><a style="color:rgb(0,64,128);" href="/recuperation">R&eacute;cup&eacute;ration</a></p>
+<!--
+<p style="color: orange; font-size: 22px; display:inline;text-align: right;margin: 14px 14px; text-decoration:underline; "><a style="color:rgb(0,64,128);" href="/connexion">Connexion</a></p>
+<p style="color: orange; font-size: 22px; display:inline;text-align: right;margin: 14px 14px; text-decoration:underline; "><a style="color:rgb(0,64,128);" href="/inscription">Inscription</a></p>
+-->
+<p style="color: orange; font-size: 22px; display:inline;text-align: right;margin: 14px 14px; text-decoration:underline; "><a style="color:rgb(0,64,128);" href="/aide">Aide</a></p>
+</div>
+<p style="border-bottom: 1px solid red; display:block; width: 999px; height: 2px;">&nbsp;</p>
+<h2 style="color: white;text-align:center;display: block;width: 999px; margin: 14px auto; height: 60px;">Service de stockage et de r&eacute;cup&eacute;ration de fichier et multi-appareils</h2>
+<div style="display: block; font-size: 20px; margin: 0 auto; width: 888px; height: 444px">
+<div style="float:left; ">
+<a href="/stockage"><img alt="stockage depuis un mobile" src="images/Screenshot_20200713-173238.jpg" style="display: block; width: 230px; border: 1px solid white; height: 400px;" /></a>
+<p style="height: 24px; width: 230px; color: white; text-align:center; ">&nbsp;&nbsp;Stockage depuis un mobile</p>
+</div>
+
+<div style="float:left; margin: 0;padding: 0 0 10px 10px; display:block; width: 230px; height: 400px;">
+<p style=" margin: 0;padding:0;display:block; height: 70px;width:230px; color: white; text-align:center; ">Exemple fichier stock&eacute; &agrave; partir d'un mobile</p>
+<a href="/stockage"><img alt="Exemple fichier stock&eacute; &agrave; partir d'un mobile" src="images/Screenshot_20200715-095316.jpg" style="display: block; border: 1px solid white; width: 100%;height: 32%;" /></a>
+<p style="height:24px;  width:230px; color: white; text-align:center; ">Exemple r&eacute;cup sur un ordi</p>
+<a href="/recuperation"><img alt="Exemple r&eacute;cup sur un ordi" src="images/recup_ordi_sc.png" style="display: block; padding: 0px 0;border: 1px solid white; width: 100%;height: 32%;" /></a>
+</div>
+
+<div style="float:right; font-size: 20px; display: block; width: 370px; margin: 0 0; padding: 0 0 0 8px; height: 444px; ">
+<p style="color: white; text-align:center; ">Admettons que vous avez un fichier sur mobile et que vous le voulez sur ordinateur.</p>
+<p style="color: white; text-align:center; ">Le probl&egrave;me certes r&eacute;soluble avec une connexion USB n'est toujours pas valide quand ordi et mobile pr&eacute;sente une incompatibilit&eacute;.</p>
+<p style="color: white; text-align:center; ">Sans compter le temps de prendre le fils USB, connecter les deux appareils et faire le transfert.</p>
+<p style="color: white; text-align:center; ">Si ce qui vient d'&ecirc;tre dit vous parle, peut-&ecirc;tre que ce service est votre solution de transfert mobile/ordi et ordi/mobile.</p>
+<p style="color: white; text-align:center; ">Avec r&eacute;cup&eacute;ration par code 6 chiffres et suppression apr&egrave;s r&eacute;cup&eacute;ration.</p>
+</div>
+</div>
+<p style="display:block; width: 999px; color: purple; text-align:center;font-size:2px; height: 1px;margin:0; padding: 0;">&nbsp;</p>
+<p style="display:block; width: 999px; color: purple; text-align:center;font-size:20px; height: 24px;padding: 37px 0 0 0;"><a href="http://blog.stockrecup.net/" style="color:purple;text-decoration: none">Blog</a>&nbsp;<span style="color:white">-</span>&nbsp;<a href="/mentions-legales" style="color:purple;text-decoration: none">Mentions l&eacute;gales </a>&nbsp;<span style="color:white">-</span>&nbsp;<a href="/contact" style="color:purple;text-decoration:none">Contact</a></p>
+
+<div id="RGPD" style="display:none;width:999px; height: auto; position: fixed; bottom: 0px;background: white; border: 1px solid red;padding: 0; ">
+<p style="text-align:center;font-size: 20px;display:block;">Ce bas de page vous laisse choisir entre l'enregistrement et la sauvegarde des entit&eacute;s qui identifient votre connexion et vous-m&ecirc;me. Vous pouvez refuser l'enregistrement et la sauvegarde en cliquant sur <a href="http://www.stockrecup.net/RGPD_Refus">Refuser</a> ou <a href="http://www.stockrecup.net/RGPD_Ok">Accepter</a> l'enregistrement et la sauvegarde en cliquant sur accepter. Pour plus d'informations sur le RGPD, veuillez cliquer sur <a href="/CNIL">En savoir plus</a>.</p> </div>
+
+<script>
+
+if(document.cookie.indexOf("RGPD=1")!=-1)
+{
+        document.getElementById("RGPD").style.display = "none";
+}
+else
+{
+        document.getElementById("RGPD").style.display = "block";
+}
+
+</script>
+
+</body>
+</html>

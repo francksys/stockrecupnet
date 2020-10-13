@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+        <meta name="description" content="StockRecupNET - Service de stockage et de r&eacute;cup&eacute;ration de fichier et multi-appareils: Mentions l&eacute;gales." />
+        <title>StockR&eacute;cupNET - Mentions l&eacute;gales</title>
+</head>
+<body style="background: url('images/IMG_20200711_094942.jpg') no-repeat top center fixed; background-size: 100%;margin: 14px auto; padding: 7px 7px;border: 1px solid white; height: 820px;width: 1000px;display:block;">
+<div style="display: block; width: 999px; margin: 20px 0; height: 40px;">
+<h1 style="color: red;display:inline;text-align:left;padding: 0 0 0 27px;"><a style="color:red; text-decoration: none;font-size:24px;" href="/Accueil">StockR&eacute;cup<span style="font-size: 22px;">NET</span></a></h1>
+<p style="color: orange; font-size: 22px; display:inline;text-align: right;margin: 14px 14px; padding: 0 0 0 14px;text-decoration:underline; "><a style="color:rgb(0,64,128);" href="/stockage">Stockage</a></p>
+<p style="color: orange; font-size: 22px; display:inline;text-align: right;margin: 14px 14px; text-decoration:underline; "><a style="color:rgb(0,64,128);" href="/recuperation">R&eacute;cup&eacute;ration</a></p>
+<!--
+<p style="color: orange; font-size: 22px; display:inline;text-align: right;margin: 14px 14px; text-decoration:underline; "><a style="color:rgb(0,64,128);" href="/connexion">Connexion</a></p>
+<p style="color: orange; font-size: 22px; display:inline;text-align: right;margin: 14px 14px; text-decoration:underline; "><a style="color:rgb(0,64,128);" href="/inscription">Inscription</a></p>
+-->
+<p style="color: orange; font-size: 22px; display:inline;text-align: right;margin: 14px 14px; text-decoration:underline; "><a style="color:rgb(0,64,128);" href="/aide">Aide</a></p></div>
+<p style="border-bottom: 1px solid red; display:block; width: 999px; height: 2px;">&nbsp;</p>
+<h2 style="color: white;text-align:center;display: block;width: 999px; margin: 14px auto; height: 60px;">Service de stockage et de r&eacute;cup&eacute;ration de fichier et multi-appareils</h2>
+<h3 style="color: white;text-align:center;display: block;width: 999px; margin: 14px auto; height: 60px;">Mentions l&eacute;gales</h3>
+
+
+
+<p style="color: white; display: block; width: 980px; text-align:left; font-size: 20px;text-decoration:underline;">Mentions l&eacute;gales propre &agrave; l'utilisation de ce site en tant qu'application:</p>
+
+<p style="color: white; display: block; width: 980px; text-align:left; font-size: 20px">Chaque fichier envoy&eacute; et stock&eacute; est conserv&eacute; jusqu'&agrave; ce que le quota d'espace atteigne sa limite. Quand cette limite est d&eacute;pass&eacute;e, les fichiers stock&eacute;s et leurs codes de r&eacute;cup&eacute;ration li&eacute;s font l'objet d'une suppression et deviennent donc non-r&eacute;cup&eacute;rables. Cette limite est g&eacute;n&eacute;ralement atteinte 1 fois par an, c'est &agrave; dire qu'une suppression de tous les fichiers stock&eacute;s arrive au maximum 1 fois par an. Et elle est ou sera effectu&eacute;e &agrave; chaque fin d'ann&eacute;e c'est &agrave; dire le 31 d&eacute;cembre de l'ann&eacute;e en cours.</p>
+
+<p style="color: white; display: block; width: 980px; text-align:left; font-size: 20px; text-decoration:underline;">Mentions l&eacute;gales propre &agrave; la consultation de ce site:</p>
+
+<p style="color: white; display: block; width: 980px; text-align:left; font-size: 20px">Ce site est &eacute;dit&eacute; par Franck Lesage habitant au 21 rue Sainte Marie 50400 Granville. Les r&eacute;gles et lois en vigueur en France s'appliquent au contenu de ce site. Si vous voulez vous opposer au contenu ou une partie du contenu de ce site vous pouvez le faire. Si votre contestation est recevable le contenu sera retir&eacute; ou modifi&eacute;. </p>
+<p style="color: white; display: block; width: 980px; text-align:left; font-size: 20px">Si le contenu ou une partie du contenu de ce site est distribu&eacute; de mani&egrave;re modifi&eacute; et que cela va contre l'&eacute;diteur initial, Franck Lesage ou moi, alors je ne suis pas assignable au contenu ainsi diffus&eacute;.</p>
+<p style="color: white; display: block; width: 980px; text-align:left; font-size: 20px">Si certain propos sont illisibles ou incompr&eacute;hensibles il va pour l'&eacute;diteur de vous rediriger vers des sites autres.</p>
+
+<p style="display: block; height:9px; width: 999px; font-size: 3px; ">&nbsp;</p>
+
+<div id="RGPD" style="display:none;width:999px; height: auto; position: fixed; bottom: 0px;background: white; border: 1px solid red;padding: 0; ">
+<p style="text-align:center;font-size: 20px;display:block;">Ce bas de page vous laisse choisir entre l'enregistrement et la sauvegarde des entit&eacute;s qui identifient votre connexion et vous-m&ecirc;me. Vous pouvez refuser l'enregistrement et la sauvegarde en cliquant sur <a href="http://www.stockrecup.net/RGPD_Refus">Refuser</a> ou <a href="http://www.stockrecup.net/RGPD_Ok">Accepter</a> l'enregistrement et la sauvegarde en cliquant sur accepter. Pour plus d'informations sur le RGPD, veuillez cliquer sur <a href="/CNIL">En savoir plus</a>.</p> </div>
+
+<script>
+
+if(document.cookie.indexOf("RGPD=1")!=-1)
+{
+        document.getElementById("RGPD").style.display = "none";
+}
+else
+{
+        document.getElementById("RGPD").style.display = "block";
+}
+
+</script>
+
+</body>
+</html>
